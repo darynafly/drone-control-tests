@@ -1,0 +1,1 @@
+ros2 launch ros_gz_bridge ros_gz_bridge.launch.py name:=ros_gz_bridge config_file:=gz_ros_bridge.yaml
