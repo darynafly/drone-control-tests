@@ -2,10 +2,6 @@
 
 This repository contains code and instructions for controlling a drone using **FMU** (Flight Management Unit) and **MAVROS** (MAVLink for ROS2). 
 
-### **MAVROS Folder**
-
-The **MAVROS** folder contains the MAVROS node and code used to control the drone via **MAVLink** (the communication protocol for drones). This integration runs as a bridge between the drone's FMU and your ROS2 environment, allowing to send commands and receive telemetry using standard ROS messages and services.
-
 ## Run Simulation
 
 ### Start the simulation (On Ubuntu Laptop):
